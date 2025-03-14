@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Circlin Landing Page
+
+A simple, elegant landing page for Circlin - a marketplace that makes secondhand fun and easy.
+
+## Features
+
+- Clean, modern design with the Circlin logo
+- Responsive layout that works on all device sizes
+- Beautiful animations and transitions
+- Custom color scheme with a subtle background pattern
+- Google Poppins font integration
+
+## Technologies Used
+
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Google Fonts
 
 ## Getting Started
 
@@ -16,13 +34,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+This project uses Next.js. To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
